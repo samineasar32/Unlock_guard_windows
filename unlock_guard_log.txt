@@ -1,0 +1,38 @@
+2026-09-27 21:12:29 - Unlock Guard started and watching for unlock events.
+2026-09-27 21:15:54 - Unlock Guard started and watching for unlock events.
+2026-09-27 21:17:45 - Session locked.
+2026-09-27 21:17:51 - Session unlocked - showing challenge.
+2026-09-27 21:27:17 - Unlock Guard started and watching for unlock events.
+2026-09-27 21:27:24 - Session locked.
+2026-09-27 21:27:30 - Session unlocked - showing challenge.
+2026-09-27 21:28:17 - Correct code entered. Access granted.
+2026-09-27 21:28:21 - Session locked.
+2026-09-27 21:28:26 - Session unlocked - showing challenge.
+2026-09-27 21:28:33 - Correct code entered. Access granted.
+2026-09-27 21:28:39 - Session locked.
+2026-09-27 21:28:45 - Session unlocked - showing challenge.
+2026-09-27 21:28:51 - WRONG code entered. Attempts left: 1. Photo: C:\\Users\\user\\OneDrive\\Documents\\Python\\cote pic\unlock_attempt_20260927_212851.jpg
+2026-09-27 21:28:54 - WRONG code entered. Attempts left: 0. Photo: C:\\Users\\user\\OneDrive\\Documents\\Python\\cote pic\unlock_attempt_20260927_212854.jpg
+2026-09-27 21:28:58 - WRONG code entered. Attempts left: -1. Photo: C:\\Users\\user\\OneDrive\\Documents\\Python\\cote pic\unlock_attempt_20260927_212858.jpg
+2026-09-27 21:29:01 - WRONG code entered. Attempts left: -2. Photo: C:\\Users\\user\\OneDrive\\Documents\\Python\\cote pic\unlock_attempt_20260927_212901.jpg
+2026-09-27 21:29:04 - WRONG code entered. Attempts left: -3. Photo: C:\\Users\\user\\OneDrive\\Documents\\Python\\cote pic\unlock_attempt_20260927_212904.jpg
+2026-09-27 21:29:08 - WRONG code entered. Attempts left: -4. Photo: C:\\Users\\user\\OneDrive\\Documents\\Python\\cote pic\unlock_attempt_20260927_212908.jpg
+2026-09-27 21:29:08 - Max attempts exceeded. Shutting down the laptop.
+2026-09-27 21:29:08 - Max attempts exceeded. Shutting down the laptop.
+2026-09-27 21:29:08 - Max attempts exceeded. Shutting down the laptop.
+2026-09-27 21:29:08 - Max attempts exceeded. Shutting down the laptop.
+2026-09-27 21:29:08 - Max attempts exceeded. Shutting down the laptop.
+2026-09-27 21:36:15 - Unlock Guard started and watching for unlock events.
+2026-09-27 21:36:23 - Session locked.
+2026-09-27 21:36:29 - Session unlocked - showing challenge.
+2026-09-27 21:36:37 - Correct code entered. Access granted.
+2026-09-27 21:38:54 - Unlock Guard started and watching for unlock events.
+2026-09-27 21:38:59 - Session locked.
+2026-09-27 21:39:05 - Session unlocked - showing challenge.
+2026-09-27 21:39:12 - WRONG code entered. Attempts left: 1. Photo: C:\Users\user\OneDrive\Documents\Python\Unlock\unlock_attempt_20260927_213912.jpg
+2026-09-27 21:39:20 - Correct code entered. Access granted.
+2026-09-27 21:41:57 - Unlock Guard started and watching for unlock events.
+2026-09-27 21:42:00 - Session locked.
+2026-09-27 21:42:06 - Session unlocked - showing challenge.
+2026-09-27 21:42:14 - WRONG code entered. Attempts left: 1. Photo: C:\Users\user\OneDrive\Documents\Python\Unlock\cote pic\unlock_attempt_20260927_214214.jpg
+2026-09-27 21:42:24 - Correct code entered. Access granted.
